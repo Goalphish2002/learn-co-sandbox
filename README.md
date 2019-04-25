@@ -12,3 +12,5 @@ To learn more about the Sandbox, please visit http://help.learn.co/technical-sup
 var word
 word = 'bird'
 console.log(word)
+word = 'dog'
+console.log(word)
